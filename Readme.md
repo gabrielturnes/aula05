@@ -1,16 +1,16 @@
 # Aprendendo a escrever Markdown
 
-Segie um exemplo de Olá Mundo em Java:
+Segue um exemplo de Olá Mundo em Java:
 
 ```java
 public static void main(String args[]){
 	System.out.println("Olá mundo");
 }
-
+```
 
 Coisas que já aprendi em java:
 
-1. O Complicador é `javac`
+1. O Compilador é `javac`
 1. O `.class` é um **bytecode**
 1. Todo arquivo `.java` é chamado de classe
 
